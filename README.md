@@ -1,5 +1,5 @@
 # MirroredQWERTY
-QWERTY keyboard layout but mirrored
+QWERTY keyboard layout but mirrored (POIUY)
 
 <h1> Installation Instructions (Tested on Ubuntu 20.04): </h1>
 
@@ -32,6 +32,8 @@ F. The default keyboard shortcuts for switching between keyboard layouts is Shif
 G. For learning a layout, I find it helpful on a second screen (or smartphone) to pull up the layout to look at while typing and memorizing on some kind of typing test like typeracer.com.
 
 H. If you'd like to try to create a custom layout of your own, you just need to go to the "zzz" file for instance and switch around the values of the keys. I don't know what all the codes are for the keys, but you can get some ideas by finding other codes in the files in the /usr/share/X11/xkb/symbols/ folder.
+
+I. I had the idea that this might be a nice brain workout to learn, would be easy to remember as it's just QWERTY flipped, and way to change which fingers are hitting which keys repeatedly. 
 
 <h1> Happy Typing! </h1>
 
